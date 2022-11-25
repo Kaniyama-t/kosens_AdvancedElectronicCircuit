@@ -1,0 +1,23 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.std_logic_unsigned.all;
+use IEEE.std_logic_arith.all;
+use IEEE.numeric_std.all;
+--------------------------------------
+entity slot is
+    Port ( CLK : in std_logic;
+      btn	: in std_logic;
+		scr1	: out std_logic_vector(6 downto 0);
+		scr2	: out std_logic_vector(6 downto 0);
+	 )
+end entity slot;
+
+architecture RTL of slot is
+  signal W0, W1 : std_logic;
+  begin
+	W0 <= A xor B;
+	W1 <= A and B;
+	S <= W0;
+	C <= W1;
+end architecture RTL;
+-------------------------------------

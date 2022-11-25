@@ -1,0 +1,173 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'slotshow:showcontroller|display[0]'
+Slack : -7.065
+TNS   : -121.485
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -2.167
+TNS   : -16.614
+
+Type  : Slow 1200mV 85C Model Setup 'btn_show'
+Slack : -1.834
+TNS   : -5.054
+
+Type  : Slow 1200mV 85C Model Setup 'btn_stop'
+Slack : -1.288
+TNS   : -9.109
+
+Type  : Slow 1200mV 85C Model Hold 'slotshow:showcontroller|display[0]'
+Slack : 0.248
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : 0.331
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'btn_show'
+Slack : 1.066
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'btn_stop'
+Slack : 1.208
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'btn_show'
+Slack : -1.575
+TNS   : -4.725
+
+Type  : Slow 1200mV 85C Model Removal 'btn_show'
+Slack : 1.554
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -21.239
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'btn_stop'
+Slack : -3.000
+TNS   : -15.627
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'btn_show'
+Slack : -3.000
+TNS   : -7.209
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'slotshow:showcontroller|display[0]'
+Slack : 0.357
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'slotshow:showcontroller|display[0]'
+Slack : -6.685
+TNS   : -114.519
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -1.940
+TNS   : -14.094
+
+Type  : Slow 1200mV 0C Model Setup 'btn_show'
+Slack : -1.621
+TNS   : -4.444
+
+Type  : Slow 1200mV 0C Model Setup 'btn_stop'
+Slack : -1.015
+TNS   : -6.771
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'slotshow:showcontroller|display[0]'
+Slack : 0.332
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'btn_show'
+Slack : 0.989
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'btn_stop'
+Slack : 1.006
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'btn_show'
+Slack : -1.275
+TNS   : -3.825
+
+Type  : Slow 1200mV 0C Model Removal 'btn_show'
+Slack : 1.452
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -21.239
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'btn_stop'
+Slack : -3.000
+TNS   : -15.627
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'btn_show'
+Slack : -3.000
+TNS   : -7.209
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'slotshow:showcontroller|display[0]'
+Slack : 0.291
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'slotshow:showcontroller|display[0]'
+Slack : -2.249
+TNS   : -32.014
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -1.013
+TNS   : -3.856
+
+Type  : Fast 1200mV 0C Model Setup 'btn_show'
+Slack : -0.637
+TNS   : -1.760
+
+Type  : Fast 1200mV 0C Model Setup 'btn_stop'
+Slack : -0.302
+TNS   : -1.434
+
+Type  : Fast 1200mV 0C Model Hold 'slotshow:showcontroller|display[0]'
+Slack : -0.147
+TNS   : -0.419
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : 0.145
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'btn_show'
+Slack : 0.455
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'btn_stop'
+Slack : 0.736
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'btn_show'
+Slack : -0.895
+TNS   : -2.685
+
+Type  : Fast 1200mV 0C Model Removal 'btn_show'
+Slack : 0.643
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -16.481
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'btn_stop'
+Slack : -3.000
+TNS   : -13.127
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'btn_show'
+Slack : -3.000
+TNS   : -6.327
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'slotshow:showcontroller|display[0]'
+Slack : 0.388
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,19 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.std_logic_unsigned.all;
+use IEEE.std_logic_arith.all;
+use IEEE.numeric_std.all;
+--------------------------------------
+entity slotword is
+    Port ( CLK : in std_logic;
+      btn	: in std_logic;
+		scr0	: out std_logic_vector(3 downto 0);
+		scr1	: out std_logic_vector(3 downto 0);
+		scr2	: out std_logic_vector(3 downto 0);
+		scr3	: out std_logic_vector(3 downto 0);
+		scr4	: out std_logic_vector(3 downto 0);
+		scr5	: out std_logic_vector(3 downto 0)
+	 );
+end entity slotword;
+
+architecture RTL of slotword is
